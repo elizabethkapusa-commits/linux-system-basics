@@ -1,7 +1,9 @@
-I wrote a Monitoring Script:
--written in Bash
--Logs CPU and Memory usage
--Appends system snapshots to log file
--Uses top and free for system Metrics
 
-xxMy Linux Journey Starts herex
+My Linux Journey Starts here: 
+
+# Linux System Basics
+
+This repository documents my hands-on Linux learning using Ubuntu on WSL2.
+It includes system navigation, permissions, process monitoring, networking,
+logging, and a Bash script that logs CPU and memory usage.
+
